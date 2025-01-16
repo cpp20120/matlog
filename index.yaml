@@ -1,0 +1,9 @@
+title: Exz
+description: Экзамен по матлогу
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Экзамен
+  description: Ответы на вопросы к экзамену
+  href: Exam.md
